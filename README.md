@@ -15,6 +15,8 @@ PACKAGE_NAME_HERE is a template for creating Roblox package repositories.
 |username_here|your github username|
 |package_name_here|your package name|
 |PACKAGE_NAME_HERE|your package name as it appears to users and as a Studio instance|
+|package_description_here|your package description|
+|TAGLINE_HERE|your package tagline|
 * Copy the contents of your .wally/auth.toml file into a Github secret named "WALLY_AUTH"
 
 ## Installing with Wally
