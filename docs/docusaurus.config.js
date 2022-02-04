@@ -9,7 +9,7 @@ const config = {
   title: 'PACKAGE_NAME_HERE',
   tagline: 'TAGLINE_HERE',
   url: 'https://username_here.github.io/package_name_here',
-  baseUrl: '/',
+  baseUrl: '/package_name_here/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
