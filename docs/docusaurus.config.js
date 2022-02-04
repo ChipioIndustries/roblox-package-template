@@ -46,9 +46,9 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'intro',
+            docId: 'installation',
             position: 'left',
-            label: 'Docs',
+            label: 'Get Started',
           },
           {
             href: 'https://github.com/username_here/package_name_here',
@@ -65,6 +65,7 @@ const config = {
         copyright: `Copyright © ${new Date().getFullYear()}. Built with Docusaurus.`,
       },
       prism: {
+		additionalLanguages: ["lua", "toml"],
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
