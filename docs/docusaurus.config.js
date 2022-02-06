@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'PACKAGE_NAME_HERE',
   tagline: 'TAGLINE_HERE',
-  url: 'https://username_here.github.io/package_name_here',
+  url: 'https://username_here.github.io',
   baseUrl: '/package_name_here/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
