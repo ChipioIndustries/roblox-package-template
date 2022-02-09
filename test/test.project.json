@@ -6,11 +6,15 @@
 		"ReplicatedStorage": {
 			"$className": "ReplicatedStorage",
 			"$path": "shared",
-			"PACKAGE_NAME_HERE": {
-				"$path": "../default.project.json"
-			},
 			"DevPackages": {
 				"$path": "../DevPackages"
+			},
+			"Packages": {
+				"$className": "Folder",
+				"$path": "../Packages",
+				"PACKAGE_NAME_HERE": {
+					"$path": "../default.project.json"
+				}
 			}
 		},
 

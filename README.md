@@ -31,4 +31,4 @@ PACKAGE_NAME_HERE is a template for creating Roblox package repositories.
 
 * Then run `wally install` to install the package.
 
-For more installation methods and usage instructions, see the [documentation](https://username_here.github.io/package_name_here).
+For usage instructions, see the [documentation](https://username_here.github.io/package_name_here).
